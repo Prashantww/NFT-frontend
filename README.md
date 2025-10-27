@@ -9,8 +9,6 @@ Inspired by futuristic digital art platforms, this project focuses on **visual h
 
 ![Freakish Mind Preview](public/preview.png)
 
----
-
 ## Live Demo
 
 **[View Project Here →](https://prashantww.github.io/NFT-frontend/)**
